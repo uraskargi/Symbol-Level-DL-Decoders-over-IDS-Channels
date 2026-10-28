@@ -1,0 +1,5 @@
+data/*
+Figures/*
+*.log
+*.ipynb
+Results/*
